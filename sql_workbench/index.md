@@ -4,7 +4,7 @@ Using AWS Athena, you can run SQL on top of storage formats like S3. I wanted to
 
 ## Prerequisites
 - Ensure you have Java installed - https://java.com/en/download/mac_download.jsp
-    - :warning: If you are using Windows/Linux, make sure you install the appropriate Java distro
+    - :warning: *If you are using Windows/Linux, make sure you install the appropriate Java distro*
 - Install SQL Workbench - http://www.sql-workbench.eu/downloads.html
 - Download the Athena Driver - https://docs.aws.amazon.com/athena/latest/ug/connect-with-jdbc.html
 
