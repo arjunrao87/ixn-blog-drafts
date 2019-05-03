@@ -48,4 +48,4 @@ Using AWS Athena, you can run SQL on top of storage formats like S3. I wanted to
 
 ![Manage Drivers](resources/success.png)
 
-- You can now go ahead and query your S3 data out of Athena 🔥
+- **You can now go ahead and query your S3 data out of Athena** 🔥
