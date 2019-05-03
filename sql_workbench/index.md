@@ -1,4 +1,4 @@
-# SQL Workbench + AWS Athena 
+# Querying data from AWS Athena using SQL Workbench 
 
 Using AWS Athena, you can run SQL on top of storage formats like S3. I wanted to connect Athena to a SQL IDE so that I could execute those queries. I chose SQL Workbench as the tool of choice, and I didn't find  up-to-date documentation on the end-to-end process as it stands today, so I decided to put together some notes for setting this up.
 
@@ -48,4 +48,4 @@ Using AWS Athena, you can run SQL on top of storage formats like S3. I wanted to
 
 ![Manage Drivers](resources/success.png)
 
-- **You can now go ahead and query your S3 data out of Athena** 🔥
+**You can now go ahead and query your S3 data out of Athena** 🔥
